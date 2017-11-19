@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Here comes a static content
 
 <div class="posts">
+Here comes a static content
+
   {% for post in site.posts %}
   this should be repeated twice
     <article class="post">
@@ -15,7 +16,7 @@ Here comes a static content
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">  {{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> READ MORE {{ post.title }} </a>
     </article>
   {% endfor %}
 </div>
