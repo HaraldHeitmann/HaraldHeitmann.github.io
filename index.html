@@ -10,13 +10,13 @@ Here comes a static content
   this should be repeated twice
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}"> READ MORE {{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> READ MORE {{ post.title }} </a>
+      {{ post.title }}  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> READ MORE </a>
     </article>
   {% endfor %}
 </div>
