@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+This blog if for data scientists wanna-be, machine learning enthusiast and mathematicians.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a junior data scientist, so don't expect much from dis.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[harald.heitmann.f@outlook.com](mailto:harald.heitmann.f@outlook.com)
