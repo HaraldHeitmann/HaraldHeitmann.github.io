@@ -2,8 +2,11 @@
 layout: default
 ---
 
+Here comes a static content
+
 <div class="posts">
   {% for post in site.posts %}
+  this should be repeated twice
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}"> READ MORE {{ post.title }}</a></h1>
