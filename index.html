@@ -15,7 +15,7 @@ Here comes a static content changed!
         {{ post.excerpt }}
       </div>
 
-      {{ post.title }}  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> READ MORE </a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> READ MORE {{ post.title }} </a>
     </article>
   {% endfor %}
 </div>
