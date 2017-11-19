@@ -1,5 +1,6 @@
 ---
 layout: post
+comments:True
 title: You're up and running!
 ---
 
