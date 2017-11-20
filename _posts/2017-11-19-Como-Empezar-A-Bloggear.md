@@ -12,14 +12,14 @@ Este *post* está orientado a personas sin mucho conocimiento técnico.
 
 Debido a que el servicio estará disponible usando *github pages*, lo primero que necesitas es tener una cuenta de github.
 
-  * **Obs:** Tu nombre de usuario generará el link de tu blog, es decir, si tu usuario es *TuUsuario*, el link a tu blog sera *https://TuUsuario.github.io*
+  * **Obs:** Tu nombre de usuario generará el link de tu blog, es decir, si tu usuario es *TuUsuario*, el link a tu blog sera *https://<TuUsuario>.github.io*
 
 ### Paso 2: Haz un fork de *Jekyll Now*.
 
 Para que todo sea sencillo ve al siguiente link **https://github.com/barryclark/jekyll-now**, y haz click en *fork*, con esto, vas a tener una copia del repositorio en tus repositorios.
 Luego, ve a la configuración del repositorio que acabas de copiar, y cambiale el nombre a *TuUsuario.github.io*.
 
-Con esto ya deberías poder acceser a *https://TuUsuario.github.io* y ver cierto contenido, si no, sigue el Paso 3.
+Con esto ya deberías poder acceser a *https://<TuUsuario.github>.io* y ver cierto contenido, si no, sigue el Paso 3.
 
 ### Paso 3: modifica el archivo *_config.yml*.
 
@@ -45,5 +45,3 @@ En la carpeta *_posts* de tu repositorio, agrega un nuevo archivo con el formato
 Finalmente, no olvides modificar el archivo *about.md* con tu información, y si eres aventurado con *html*, el archivo *index.html*
 
 Con esto debería estar todo OK!
-
-PS: Los *hypervinculos* están por venir!
