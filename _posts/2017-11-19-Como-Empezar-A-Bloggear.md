@@ -41,7 +41,7 @@ Edita nuevamente el archivo *_config.yml*, donde dice *disqus:* agrega *tusitiod
 
 ### Paso 6: Agrega un nuevo *post*:
 
-En la carpeta *_posts* de tu repositorio, agrega un nuevo archivo con el formato *YYYY-DD-MM-TU-Primer-Post.md*, editalo desde *Github*. Recuerda que este archivo es en formato *Markdown*, asique te será conveniente buscar una *Cheat-Sheet*.
+En la carpeta *_posts* de tu repositorio, agrega un nuevo archivo con el formato *YYYY-MM-DD-TU-Primer-Post.md*, editalo desde *Github*. Recuerda que este archivo es en formato *Markdown*, asique te será conveniente buscar una *Cheat-Sheet*.
 Finalmente, no olvides modificar el archivo *about.md* con tu información, y si eres aventurado con *html*, el archivo *index.html*
 
 Con esto debería estar todo OK!
