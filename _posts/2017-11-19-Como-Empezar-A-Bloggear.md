@@ -46,4 +46,4 @@ Finalmente, no olvides modificar el archivo *about.md* con tu información, y si
 
 Con esto debería estar todo OK!
 
-
+PS: Los *hypervinculos* están por venir!
